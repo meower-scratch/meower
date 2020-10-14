@@ -19,3 +19,4 @@ body{background-color:#ff9100;color:#f5f5f5;font-family:Varta}
 .counter{animation:side .5s infinite ease}
 @keyframes side{0%,100%{transform:translateX(-5px)}30%,70%{transform:translateX(5px)}}
 /*this works refresh repl.it to see the change*/
+/*dang, clean up your css!
